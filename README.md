@@ -10,7 +10,7 @@ I'm a self taught Web-Developer who is passionate about making and maintaining w
 
 <br>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 - 🌱 Currently learning: Tailwind CSS
 - 🌍 Languages: HTML5, CSS3, JAVASCRIPT, GIT
