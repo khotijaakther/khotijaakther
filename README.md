@@ -6,6 +6,10 @@
 
 I'm a Web-Developer who is passionate about making and maintaining websites. I really enjoy learning languages and frameworks like Tailwind, React and React-Native. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. I have been trying to learn new technologies everyday. 
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 - 🌱 Currently learning: Tailwind CSS
 - 🌍 Languages: HTML5, CSS3, JAVASCRIPT, GIT
 - 📫 How to reach me: khotizaakther@gmail.com
