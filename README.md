@@ -2,7 +2,10 @@
 
 
 <br>
+
 ## About Me 🚀
+
+<br>
 
 I'm a self taught Web-Developer who is passionate about making and maintaining websites. I really enjoy learning languages and frameworks like Tailwind, React and React-Native. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
