@@ -6,12 +6,17 @@
 
 I'm a self taught Web-Developer who is passionate about making and maintaining websites. I really enjoy learning languages and frameworks like Tailwind, React and React-Native. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
+<br>
+
 
 - 🌱 Currently learning: Tailwind CSS
 - 🌍 Languages: HTML5, CSS3, JAVASCRIPT, GIT
 - 📫 How to reach me: khotizaakther@gmail.com
 - ⚡ Some of my projects are available at https://github.com/khotijaakther?tab=repositories
 
+<br>
+
+<br>
 
 ## Technology and Tools 🧠
 
@@ -23,7 +28,9 @@ I'm a self taught Web-Developer who is passionate about making and maintaining w
 ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<p align="left">
+	
 <br>
 
 <br>
