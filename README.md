@@ -16,6 +16,7 @@ I'm a self taught Web-Developer who is passionate about making and maintaining w
 - 🌍 Languages: HTML5, CSS3, JAVASCRIPT, GIT
 - 📫 How to reach me: khotizaakther@gmail.com
 - ⚡ Some of my projects are available at https://github.com/khotijaakther?tab=repositories
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
 <br>
 
