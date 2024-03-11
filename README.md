@@ -1,7 +1,3 @@
-![logo] (https://github.com/khotijaakther/khotijaakther/blob/main/WhatsApp%20Image%202024-03-11%20at%2023.08.29_443bbdf6.jpg)
-
-
-
 ### Hi, I'm Khotija 👋
 
 
