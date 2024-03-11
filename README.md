@@ -1,7 +1,3 @@
-<img src="https://www.canva.com/design/DAF_ONGpdVY/de3hlVycnOLLrcMPVnO6_g/edit" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
-
-
-
 
 
 
